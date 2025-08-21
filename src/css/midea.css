@@ -1,0 +1,19 @@
+@media (max-width: 1440px) {
+    .home-section-1 .container {
+        max-width: 1920px;
+    }
+    
+    .home-section-1 {
+        padding: 50px 70px 50px 70px;
+        position: relative;
+    }
+
+    header {
+        padding-right: 20px;
+    }
+    
+    header .navbar .navbar-nav li .nav-link {
+        font-size: 15px;
+        
+    }
+}
